@@ -1,0 +1,7 @@
+rgname = "ngrg"
+rglocation = "East US"
+prefix = "lab"
+vnet = "ngvnet"
+vnet_cidr_prefix = "10.10.0.0/16"
+subnet = "subnet1"
+subnet_cidr_prefix = "10.10.1.0/24"
